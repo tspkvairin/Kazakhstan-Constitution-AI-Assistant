@@ -1,4 +1,4 @@
-# 🇰🇿 Kazakhstan Constitution AI Assistant (Offline)
+# 🇰🇿 Kazakhstan Constitution AI Assistant
 
 An offline AI assistant that answers questions about the Constitution of the Republic of Kazakhstan using local LLMs via [Ollama](https://ollama.com). No API keys, no rate limits, 100% private.
 
