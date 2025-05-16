@@ -1,0 +1,1 @@
+# Kazakhstan-Constitution-AI-Assistant
